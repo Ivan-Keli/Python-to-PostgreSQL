@@ -1,4 +1,4 @@
-###Python to PostgreSQL
+# Python to PostgreSQL
 
 (The script demonstrates how to create a table, insert records, update records, delete records, and select records from a PostgreSQL database using Python)
 
@@ -8,7 +8,7 @@
 - Finally, it selects all records from the employee table and prints them to the console
 
 
-##Requirements
+### Requirements
 
 (The script uses the psycopg2 library to interact with the PostgreSQL database)
 
